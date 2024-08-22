@@ -1,6 +1,6 @@
 # Alvaro Caviedes
 
-![Alvaro Caviedes](alvaro.jpg)
+![Alvaro Caviedes](alvaro.png)
 
 ## Presentación
 
