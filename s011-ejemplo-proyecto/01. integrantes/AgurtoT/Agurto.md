@@ -12,3 +12,7 @@ Expectativa del curso, espero aprender metodologias de trabajo actuales, ya que 
 
 ### VISIÓN A 10 AÑOS
 Por último, en 10 años; especializarme en el desarrollo de sw, formar una consultora para brindar servicio a terceros que lo requieran.
+
+[Ver integrantes](../integrantes.md)
+
+[Regresar al índice](../../proyecto.md)
