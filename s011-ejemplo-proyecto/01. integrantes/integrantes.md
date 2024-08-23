@@ -1,6 +1,6 @@
 # Integrantes del grupo
 
-- [Johan Agurto](Agurto/Agurto.md)
+- [Johan Agurto](Agurto/AgurtoT.md)
 - [Alvaro Caviedes](alvaro/alvaro.md)
 - [Jose Linares](linares/linares.md)
 - [Jean Pierre Soto](soto/soto.md)
